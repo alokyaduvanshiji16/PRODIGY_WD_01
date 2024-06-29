@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-DONE A 1st task of intership.
+Excited to share that I've completed the 1st task of internship.
